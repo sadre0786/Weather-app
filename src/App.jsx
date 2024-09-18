@@ -2,7 +2,6 @@ import { useState } from "react";
 import axios from "axios";
 import cloudy from "/cloudy.png";
 import foggy from "/foggy.png";
-import wind from "/windy.png";
 import rainy from "/rainy.png";
 import snowy from "/snowy.png";
 import sunny from "/sunny.png";
